@@ -31,7 +31,7 @@
     <properties>
         <jenkins.version>1.625.3</jenkins.version>
         <workflow.version>1.14.2</workflow.version>
-        <bitbucket.branch.source.version>2.2.6</bitbucket.branch.source.version>
+        <bitbucket.branch.source.version>746.v350d2781c184</bitbucket.branch.source.version>
 
         <gmavenVersion>1.5</gmavenVersion>
     </properties>
